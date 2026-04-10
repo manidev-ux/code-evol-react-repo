@@ -1,9 +1,9 @@
-import HelloPar from "./components/De-structuring/HelloPar";
+import FunctionClick from "./components/EventHandling/FunctionClick";
 
 function App() {
   return (
     <div>
-      <HelloPar />
+      <FunctionClick />
     </div>
   );
 }
