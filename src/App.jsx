@@ -1,9 +1,15 @@
-import FunPar from "./components/Props/FunPar";
+import FunSt from "./State/FunSt";
+import ClsSt from "./State/ClsSt";
+import CounterFun from "./State/CounterFun";
+import CounterCls from "./State/CounterCls";
 
 function App() {
   return (
     <div>
-      <FunPar />
+      <FunSt />
+      <ClsSt />
+      <CounterCls />
+      <CounterFun />
     </div>
   );
 }
