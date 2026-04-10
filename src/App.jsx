@@ -1,9 +1,9 @@
-import Counter from "./components/State/Counter";
+import HelloPar from "./components/De-structuring/HelloPar";
 
 function App() {
   return (
     <div>
-      <Counter />
+      <HelloPar />
     </div>
   );
 }
